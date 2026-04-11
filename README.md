@@ -1,0 +1,1 @@
+**HI this is a project for test how ransomware and encryption works, it is inspired in Mr Robot. I hope you enjoy it and thank you so much.**
